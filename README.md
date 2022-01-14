@@ -1,5 +1,5 @@
 # Mini-Games
-Small mini games project.
+Small collage mini games project.
 - Pong.
 - Base Attack.
 - Snake(Unfinished).
