@@ -1,5 +1,5 @@
 # Mini-Games
-Collage mini games project.
+Collage mini games project, Only demo levels are available.
 - Pong.
 - Base Attack.
 - Snake(Unfinished).
