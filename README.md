@@ -1,5 +1,5 @@
 # Mini-Games
-Collage mini games project, Only demo levels are available.
+This game doesn't have multiple levels, its just a demo for Pong and base attack games in 2d(Unity C#).
 - Pong.
 - Base Attack.
 - Snake(Unfinished).
