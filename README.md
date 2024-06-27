@@ -11,3 +11,10 @@ This game doesn't have multiple levels, its just a demo for Pong and base attack
 ![image](https://user-images.githubusercontent.com/47148900/149487551-5b68604b-078a-47b9-aef7-1e1b54a1f201.png)
 **Snake(Unfinished)**
 ![image](https://user-images.githubusercontent.com/47148900/149488119-b232d409-a14e-4aa6-8f6f-2d58b0c4544b.png)
+
+Pong Controls:
+W,S to move the Left paddle.
+Up arrow and Down arrow to move the Right paddle.
+
+Base Attack Controls:
+Controls: Left click on the target to shoot.
