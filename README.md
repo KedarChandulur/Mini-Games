@@ -12,7 +12,7 @@ This game doesn't have multiple levels, its just a demo for Pong and base attack
 **Snake(Unfinished)**
 ![image](https://user-images.githubusercontent.com/47148900/149488119-b232d409-a14e-4aa6-8f6f-2d58b0c4544b.png)
 
-Game info: Major work in the project is to developer mini games quickly with less time. To Run the games, download the project and run the Scene based on which game you want to test.
+Game info: Major work in the project is to develop mini games quickly with less time. To Run the games, download the project and run the Scene based on which game you want to test.
 
 Pong Controls:
 W,S to move the Left paddle.
